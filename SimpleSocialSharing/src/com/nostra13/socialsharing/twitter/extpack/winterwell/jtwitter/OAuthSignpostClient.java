@@ -12,6 +12,8 @@ import java.net.URL;
 import java.net.URLConnection;
 import java.util.Map;
 
+import android.os.StrictMode;
+
 import com.nostra13.socialsharing.twitter.extpack.oauth.signpost.AbstractOAuthConsumer;
 import com.nostra13.socialsharing.twitter.extpack.oauth.signpost.OAuthConsumer;
 import com.nostra13.socialsharing.twitter.extpack.oauth.signpost.basic.DefaultOAuthProvider;
